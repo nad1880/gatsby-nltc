@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Average Coffee
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Average Coffee
+subheading: In Oklahoma
 mainpitch:
   title: Why Kaldi
   description: >
